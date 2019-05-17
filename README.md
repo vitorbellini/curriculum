@@ -13,10 +13,10 @@ Aprendiz persistente e codificador entusiasta. Apaixonado pelo futuro e por toda
 
 ## Habilidades Técnicas
 
-* Métodos e conceitos: Estatística descritiva e inferencial, Deep Learning, Machine Learning, Scrum, Teste A/B
-* Linguagens de programação: CSS, d3.js, dimple.js, JavaScript, HTML, Python, R, SQL
-* Outros: Anaconda, Docker, Git, Notebook, Openrefine, PowerBI, QlikSense, SAS Miner e Guide
-* Idiomas: Inglês, Português
+* **Métodos e conceitos:** Estatística descritiva e inferencial, Deep Learning, Machine Learning, Scrum, Teste A/B
+* **Linguagens de programação:** CSS, d3.js, dimple.js, JavaScript, HTML, Python, R, SQL
+* **Outros:** Anaconda, Docker, Git, Notebook, Openrefine, PowerBI, QlikSense, SAS Miner e Guide
+* **Idiomas:** Inglês, Português
 
 ## Projetos
 
