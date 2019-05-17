@@ -38,7 +38,7 @@ Outros projetos como [teste a/b](https://github.com/vitorbellini/dand/blob/maste
 
 ## Experiência Profissional
 
-### Ministério do Planejamento - Analista em TI
+### [Ministério do Planejamento](http://www.economia.gov.br/) - Analista em TI
 
 *Brasília, Brasil | Fevereiro 2017 - Presente*
 
@@ -54,7 +54,7 @@ Outros projetos como [teste a/b](https://github.com/vitorbellini/dand/blob/maste
 
 * Conduzi sprints de implementação de ITSM como Scrum Master priorizando entregas pequenas e iterativas
 
-### Ministério da Educação - Gerente, Analista em TI
+### [Ministério da Educação](https://mec.gov.br/) - Gerente, Analista em TI
 
 *Brasília, Brasil | Abril 2014 - Fevereiro 2017*
 
@@ -62,7 +62,7 @@ Outros projetos como [teste a/b](https://github.com/vitorbellini/dand/blob/maste
 
 * Coletei, analisei e apresentei dados sobre a execução do Planejamento Estratégico de TI. Alcancei 70% das metas planejadas versus nenhum monitoramento nos anos anteriores
 
-### Memora Processos Inovadores - Consultor, Pré-vendas
+### [Memora Processos Inovadores](http://www.memora.com.br/) - Consultor, Pré-vendas
 
 *Brasília, Brasil | Março 2007 - Abril 2014*
 
@@ -78,6 +78,6 @@ Outros projetos como [teste a/b](https://github.com/vitorbellini/dand/blob/maste
 
 ## Homenagens e Atividades
 
-* Melhor Aluno de Engenharia da Computação do IESB, formandos 2007
-* 1º lugar no Hacksaude DF 2018. Hackathon promovido pela Secretaria de Saúde de Brasília para melhoria dos serviços de saúde por meio da tecnologia
+* Melhor Aluno de Engenharia da Computação do [IESB](http://www.iesb.br/), formandos 2007
+* 1º lugar no [Hacksaude DF 2018](https://www.facebook.com/hacksaudedf/). Hackathon promovido pela Secretaria de Saúde de Brasília para melhoria dos serviços de saúde por meio da tecnologia
 * Pintura automotiva à mão em 6 meses de dedicação [https://www.youtube.com/watch?v=MMwZs9OHXEw](https://www.youtube.com/watch?v=MMwZs9OHXEw)
