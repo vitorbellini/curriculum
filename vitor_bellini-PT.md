@@ -27,9 +27,9 @@ Aprendiz persistente e codificador entusiasta. Apaixonado pelo futuro e por toda
 Desenvolvi algoritmo de aprendizado de máquina para prever suspeitos no caso da Enron com base em dados financeiros e de e-mails com Python e sklearn
 Precisão de 0,341 e recall de 0,684 com uma Árvore de Decisão ajustada em 102 (70%) pontos de dados para treinamento
 
-### [EDA on Brazil's IT Government spending](https://github.com/vitorbellini/dand/tree/master/P4)
+### [Análise Exploratória em Gastos de TI](https://github.com/vitorbellini/dand/tree/master/P4)
 
-*October 2017*
+*Outubro 2017*
 
 Obtive distribuição e verifiquei anomalias nos contratos de TI federais entre 2011 e 2016
 Analisei, explorei e encontrei variáveis mais importantes e suas correlações com R, R Studio
@@ -72,8 +72,8 @@ Outros projetos como [teste a/b](https://github.com/vitorbellini/dand/blob/maste
 
 ## Educação
 
-* Udacity - Nanodegree de Análise de Dados | Fevereiro 2018
-* Udacity - Nanodegree de Deep Learning | Em curso
+* [Udacity](https://www.udacity.com/) - Nanodegree de Análise de Dados | Fevereiro 2018
+* [Udacity](https://www.udacity.com/) - Nanodegree de Deep Learning | Em curso
 * [IESB, Brasília/Brasil](http://www.iesb.br/) - Bacharelado em Engenharia da Computação | Junho 2007
 
 ## Homenagens e Atividades
